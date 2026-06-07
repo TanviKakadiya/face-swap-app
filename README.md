@@ -1,9 +1,9 @@
-# AI Face Swap App
+# 🔄 AI Face Swap App
 
 An AI-powered face swapping web application built using InsightFace and Gradio. Upload a source face and a target image — the model detects faces and blends them seamlessly using a deep learning ONNX model.
 
 ## Live Demo
- **[Hugging Face Spaces](https://huggingface.co/spaces/Tanvi308/face-swap-app)**
+**[Hugging Face Spaces](https://huggingface.co/spaces/Tanvi308/face-swap-app)**
 
 ---
 
@@ -34,19 +34,7 @@ An AI-powered face swapping web application built using InsightFace and Gradio. 
 
 | Source | Target | Result |
 |--------|--------|--------|
-| <table>
-<tr>
-<th>Source</th>
-<th>Target</th>
-<th>Result</th>
-</tr>
-
-<tr>
-<td><img src="<img width="960" height="1280" alt="WhatsApp Image 2026-05-05 at 12 11 22 PM" src="https://github.com/user-attachments/assets/7c284a96-9e81-4349-b449-3634c4e87636" />" width="250"></td>
-<td><img src="<img width="960" height="1280" alt="WhatsApp Image 2026-05-05 at 12 47 01 PM" src="https://github.com/user-attachments/assets/b9a8d1f5-9133-4cf9-ab90-1b61a52dc505" />" width="250"></td>
-<td><img src="<img width="960" height="1280" alt="result (1)" src="https://github.com/user-attachments/assets/72030b94-2fca-4bdc-859e-3a05841fedd8" />" width="250"></td>
-</tr>
-</table> |
+| <img src="<img width="960" height="1280" alt="WhatsApp Image 2026-05-05 at 12 11 22 PM" src="https://github.com/user-attachments/assets/07fac6f6-c09a-4dfe-b470-5053d186231a" />" width="200"> | <img src="<img width="960" height="1280" alt="WhatsApp Image 2026-05-05 at 12 47 01 PM" src="https://github.com/user-attachments/assets/b98dc90e-64b8-474a-8ab8-18f9e87544a0" />" width="200"> | <img src="<img width="960" height="1280" alt="result (1)" src="https://github.com/user-attachments/assets/8167af07-aed5-4cea-85eb-5457d568a315" />" width="200"> |
 
 ---
 
