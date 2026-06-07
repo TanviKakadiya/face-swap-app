@@ -1,10 +1,9 @@
-# 🔄 AI Face Swap App
+# AI Face Swap App
 
 An AI-powered face swapping web application built using InsightFace and Gradio. Upload a source face and a target image — the model detects faces and blends them seamlessly using a deep learning ONNX model.
 
 ## Live Demo
-**[Hugging Face Spaces](https://huggingface.co/spaces/Tanvi308/face-swap-app)**
-
+🔗 Hugging Face Deployment: https://huggingface.co/spaces/Tanvi308/face-swap-app
 ---
 
 ## 📌 Features
@@ -29,6 +28,8 @@ An AI-powered face swapping web application built using InsightFace and Gradio. 
 | Hugging Face Spaces | Cloud deployment |
 
 ---
+
+
 
 ## 📸 Screenshots
 
