@@ -33,19 +33,10 @@ An AI-powered face swapping web application built using InsightFace and Gradio. 
 
 ## 📸 Screenshots
 
-<table>
-<tr>
-<th>Source</th>
-<th>Target</th>
-<th>Result</th>
-</tr>
+| Source | Target | Result |
+|--------|--------|--------|
+| <img src="<img width="960" height="1280" alt="Source" src="https://github.com/user-attachments/assets/1ae2a0b8-a60a-47e9-ba02-49cd2c2d0270" />" width="200"> | <img src="<img width="960" height="1280" alt="Target" src="https://github.com/user-attachments/assets/1f45da4a-fde0-41a6-b7d9-678824ba7232" />" width="200"> | <img src="<img width="960" height="1280" alt="Result" src="https://github.com/user-attachments/assets/542d94fa-8fe9-418d-9d0b-7f51cbf3e37a" />" width="200"> |
 
-<tr>
-<td><img src="<img width="960" height="1280" alt="Source" src="https://github.com/user-attachments/assets/96de5528-02e5-4799-986f-cb228cdc2f3b" />" width="250"></td>
-<td><img src="<img width="960" height="1280" alt="Target" src="https://github.com/user-attachments/assets/dacf1ebe-65f6-46cc-bc94-7d99f436b8dd" />" width="250"></td>
-<td><img src="<img width="960" height="1280" alt="Result" src="https://github.com/user-attachments/assets/4592ac51-1e3f-4ea3-bb20-a9f6ee75da32" />" width="250"></td>
-</tr>
-</table>
 ---
 
 ## 📂 Project Structure
