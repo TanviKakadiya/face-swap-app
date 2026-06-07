@@ -3,7 +3,7 @@
 An AI-powered face swapping web application built using InsightFace and Gradio. Upload a source face and a target image — the model detects faces and blends them seamlessly using a deep learning ONNX model.
 
 ## Live Demo
-🔗 Hugging Face Deployment: [https://huggingface.co/spaces/Tanvi308/face-swap-app](https://huggingface.co/spaces/Tanvi308/face-swap-app)
+**[🔗 Hugging Face Deployment:](https://huggingface.co/spaces/Tanvi308/face-swap-app)**
 ---
 
 ## 📌 Features
@@ -41,9 +41,9 @@ An AI-powered face swapping web application built using InsightFace and Gradio. 
 </tr>
 
 <tr>
-<td><img src="images/Source.jpg" width="250"></td>
-<td><img src="images/Target.jpg" width="250"></td>
-<td><img src="images/Result.jpg" width="250"></td>
+<td><img src="<img width="960" height="1280" alt="Source" src="https://github.com/user-attachments/assets/80426134-f25d-4609-9113-0418dec0d37d" />" width="250"></td>
+<td><img src="<img width="960" height="1280" alt="Target" src="https://github.com/user-attachments/assets/059cd249-2951-497c-8fdc-d68af7dcf4ba" />" width="250"></td>
+<td><img src="<img width="960" height="1280" alt="Result" src="https://github.com/user-attachments/assets/262e08b1-c113-4a7d-87dc-aa7c2c4e16b0" />" width="250"></td>
 </tr>
 </table>
 
